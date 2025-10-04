@@ -5,7 +5,7 @@
 
 - I have done my first internship from CodSoft. [WebDevlopment Intern](https://github.com/abdus-git/codsoft---internship)
 
-- 🌱 I’m currently learning **WebDevlopment**
+- 🌱 I’m currently learning **WebDevlopment/ML**
 
 - 👨‍💻 All of my projects are available at [https://github.com/abdus-git](https://github.com/abdus-git)
 
